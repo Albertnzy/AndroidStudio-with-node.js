@@ -1,2 +1,2 @@
 # AndroidStudio-with-node.js
-Tutorial Integrating node.js with android-studio
+Tutorial for integrating node.js with android-studio
